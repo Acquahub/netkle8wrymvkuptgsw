@@ -34,17 +34,11 @@ function Screen1() {
 </div>
 </div>
 </div>
-
-<div className={"" + " " + styles["text-1-6f3f1afef81c4746b36caf0e0c26422a"]}>
-    <div id="text-1-6f3f1afef81c4746b36caf0e0c26422a" className={"baseText " + styles["text-1-6f3f1afef81c4746b36caf0e0c26422a"]}   >
-        Camila Rueda
-    </div>
+<div id="text-1-6f3f1afef81c4746b36caf0e0c26422a" className={"" + " baseText " + styles["text-1-6f3f1afef81c4746b36caf0e0c26422a"]}   >
+    Camila Rueda
 </div>
-
-<div className={"" + " " + styles["text-2-9393376b468b4647a12329b9637eeb7f"]}>
-    <div id="text-2-9393376b468b4647a12329b9637eeb7f" className={"baseText " + styles["text-2-9393376b468b4647a12329b9637eeb7f"]}   >
-        Partner, Rockstart
-    </div>
+<div id="text-2-9393376b468b4647a12329b9637eeb7f" className={"" + " baseText " + styles["text-2-9393376b468b4647a12329b9637eeb7f"]}   >
+    Partner, Rockstart
 </div>
 <div id="layer-4-af479bac78554c30b729088709bb0226" className={"baseLayer hide-native-scrollbar " + styles["layer-4-af479bac78554c30b729088709bb0226"]}    >
 <div id="layer-5-1b75cdee692e43df9f9ce13e128f9557" className={"baseLayer hide-native-scrollbar " + styles["layer-5-1b75cdee692e43df9f9ce13e128f9557"]}    onClick={() => openInNewTab("https://www.linkedin.com/in/maria-camila-rueda/")}>
