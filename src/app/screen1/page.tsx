@@ -8,11 +8,7 @@ import Image from 'next/image';
 import * as fonts from '../../agua/assets/fonts';
 
 
-export const metadata: Metadata = {
-                title: 'Camila Rueda',
-description: 'Rockstart business card',
 
-}
 
 function Screen1() {
     
