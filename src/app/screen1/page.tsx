@@ -35,13 +35,13 @@ function Screen1() {
 </div>
 </div>
 
-<div className={""}>
+<div className={"" + " " + styles["text-1-6f3f1afef81c4746b36caf0e0c26422a"]}>
     <div id="text-1-6f3f1afef81c4746b36caf0e0c26422a" className={"baseText " + styles["text-1-6f3f1afef81c4746b36caf0e0c26422a"]}   >
         Camila Rueda
     </div>
 </div>
 
-<div className={""}>
+<div className={"" + " " + styles["text-2-9393376b468b4647a12329b9637eeb7f"]}>
     <div id="text-2-9393376b468b4647a12329b9637eeb7f" className={"baseText " + styles["text-2-9393376b468b4647a12329b9637eeb7f"]}   >
         Partner, Rockstart
     </div>
